@@ -531,39 +531,6 @@ DE-Transportation-GoodCabs/
 
 ---
 
-# 💼 Resume-Ready Project Description
-
-> **Transportation Data Engineering Pipeline | Databricks, PySpark, AWS S3, Delta Lake, SQL**
->
-> Developed an end-to-end **Transportation Data Engineering Pipeline** using **Databricks, PySpark, SQL, AWS S3, Delta Lake and Unity Catalog**. Implemented **Medallion Architecture** to ingest, cleanse, validate and transform transportation data across Bronze, Silver and Gold layers. Built reusable **city and calendar dimensions** and a Gold `fact_trips` dataset with **city-specific analytical tables**, enabling scalable transportation analytics and BI reporting.
-
----
-
-# 👨‍💻 Skills Highlighted for Recruiters
-
-**Data Engineering:**
-ETL • ELT • Data Pipelines • Data Transformation • Data Validation • Data Quality
-
-**Big Data:**
-Apache Spark • PySpark • Distributed Processing
-
-**Cloud:**
-AWS S3 • Databricks • Lakehouse
-
-**Data Storage:**
-Delta Lake • Data Lake • Data Warehouse Concepts
-
-**Data Modeling:**
-Fact Tables • Dimension Tables • Star Schema Concepts
-
-**Programming:**
-Python • SQL
-
-**Governance & DevOps:**
-Unity Catalog • Data Lineage • Git • GitHub
-
----
-
 # 🎯 Project Objectives
 
 1. Build a scalable transportation data pipeline.
@@ -599,67 +566,6 @@ Use environment variables, secret scopes or other secure credential-management m
 
 ---
 
-# ⭐ GitHub Repository Description
-
-Use this as the repository's short description:
-
-> 🚕 End-to-end Transportation Data Engineering Pipeline using **Databricks, PySpark, SQL, AWS S3, Delta Lake & Medallion Architecture**.
-
----
-
-# 🏷️ Repository Topics
-
-```text
-databricks
-data-engineering
-pyspark
-apache-spark
-python
-sql
-aws
-aws-s3
-delta-lake
-unity-catalog
-etl
-data-pipeline
-data-lakehouse
-medallion-architecture
-data-lineage
-data-modeling
-big-data
-```
-
----
-
-# 📌 Portfolio Highlights
-
-### What this project demonstrates
-
-**01 — Data Ingestion**
-Source → S3 → Databricks
-
-**02 — Data Transformation**
-Raw → Clean → Validated
-
-**03 — Lakehouse Architecture**
-Bronze → Silver → Gold
-
-**04 — Data Modeling**
-Dimensions → Fact Tables
-
-**05 — Data Governance**
-Unity Catalog + Data Lineage
-
-**06 — Business Analytics**
-Gold Layer → BI / Reporting
-
----
-
-## ⭐ If you are a Recruiter
-
-This project demonstrates hands-on exposure to a modern **Data Engineering technology stack**, including **Databricks, PySpark, Apache Spark, SQL, AWS S3, Delta Lake, Unity Catalog, ETL pipelines, Medallion Architecture, data modeling and data lineage**.
-
----
 
 ## 📬 Contact
 
