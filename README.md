@@ -22,7 +22,8 @@
 
 ---
 
-<img width="1536" height="1024" alt="goodcabs project image" src="https://github.com/user-attachments/assets/674ec8e0-789e-4ab7-b112-239e2a8ea4cf" />
+<img width="1536" height="1024" alt="goodcabs project image" src="https://github.com/user-attachments/assets/c9c3c652-6b8a-4329-9dec-c002360288fd" />
+
 
 
 ## 📌 Project Summary
@@ -298,7 +299,8 @@ The lineage provides visibility into the transformation flow from source dataset
 
 ## 🖥️ Databricks Workspace
 
-<img width="1917" height="870" alt="Screenshot 2026-09-06 163856" src="https://github.com/user-attachments/assets/f1fea3c1-d7b4-4aa7-9779-988afe14fd29" />
+<img width="1917" height="870" alt="Screenshot 2026-09-06 163856" src="https://github.com/user-attachments/assets/afd441cf-9125-409a-822f-a14737e2e2f6" />
+
 
 
 Shows the Databricks project workspace and pipeline organization.
@@ -307,7 +309,8 @@ Shows the Databricks project workspace and pipeline organization.
 
 ## 🔄 Databricks Pipeline
 
-<img width="1917" height="866" alt="Screenshot 2026-09-06 171703" src="https://github.com/user-attachments/assets/5c28cef6-9b78-48e4-a943-cca2e21690c2" />
+<img width="1917" height="866" alt="Screenshot 2026-09-06 171703" src="https://github.com/user-attachments/assets/439d550c-b233-4a62-bce8-59fa785dfd93" />
+
 
 
 Shows the configured Databricks pipeline and execution flow.
@@ -316,7 +319,8 @@ Shows the configured Databricks pipeline and execution flow.
 
 ## 🥉 Bronze Layer
 
-<img width="1536" height="1024" alt="bronze layer image" src="https://github.com/user-attachments/assets/51588383-5967-4c37-b543-c7dc9fd45069" />
+<img width="1536" height="1024" alt="bronze layer image" src="https://github.com/user-attachments/assets/b3b87b35-c683-4a26-94a4-43aba9862a43" />
+
 
 
 Raw transportation data ingestion.
@@ -325,7 +329,8 @@ Raw transportation data ingestion.
 
 ## 🥈 Silver Layer
 
-<img width="1536" height="1024" alt="silver layer image" src="https://github.com/user-attachments/assets/c5dcd00b-6237-41cd-a186-8aabca55ce60" />
+<img width="1536" height="1024" alt="silver layer image" src="https://github.com/user-attachments/assets/59e52e0d-f31d-4306-9c31-31b6c0b6bc9a" />
+
 
 
 Cleaned and transformed datasets including:
@@ -338,7 +343,8 @@ Cleaned and transformed datasets including:
 
 ## 🥇 Gold Layer
 
-<img width="1536" height="1024" alt="gold layer image" src="https://github.com/user-attachments/assets/f7b8c788-7261-40ee-a8d5-d15a966d9168" />
+<img width="1536" height="1024" alt="gold layer image" src="https://github.com/user-attachments/assets/991334ca-6a20-4947-ac70-fb9cafacd096" />
+
 
 
 Business-ready `fact_trips` and city-level analytical datasets.
