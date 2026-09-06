@@ -353,7 +353,8 @@ Business-ready `fact_trips` and city-level analytical datasets.
 
 ## 🔗 Data Lineage
 
-<img width="1536" height="1024" alt="Data Lineage" src="https://github.com/user-attachments/assets/eab4ff52-3e23-4d39-b2bf-a4b1397e35e8" />
+<img width="1536" height="1024" alt="Data Lineage" src="https://github.com/user-attachments/assets/2f63d101-dfcc-4037-aed8-064238aae90b" />
+
 
 
 Databricks lineage showing relationships between source, Silver and Gold datasets.
